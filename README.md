@@ -1,6 +1,6 @@
 # Misc Scripts
 
-This repositry contains the some scripts that I use in solving challenges in CTFs.
+This repository contains the some scripts that I use in solving challenges in CTFs.
 
 | S. No | Name | Description |
 | :-: | :-: | :-: | 
