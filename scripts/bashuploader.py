@@ -13,4 +13,4 @@ url = url.replace('\n','').replace('=','')
 pyperclip.copy(url)
 spam = pyperclip.paste()
 
-print("Url copied to you clipboard is {}".format(url))
+print("Url copied to your clipboard is {}".format(url))
